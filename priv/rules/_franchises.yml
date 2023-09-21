@@ -42,7 +42,7 @@
   metadata: &4
     title_ru: Токийский гуль
     title_en: Tokyo Ghoul
-    image: "/assets/achievements/anime/franchise/tokyo_ghoul.jpg"
+    image: url("https://nyaa.shikimori.one/system/images/original/110645.gif?1606727813");
     topic_id: 247360
 - neko_id: tokyo_ghoul
   level: 0
